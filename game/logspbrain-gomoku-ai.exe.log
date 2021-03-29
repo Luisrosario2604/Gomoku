@@ -1,0 +1,169 @@
+______Process started______
+START 20
+OK
+INFO max_memory 83886080
+INFO timeout_match 180000
+INFO timeout_turn 2500
+INFO game_type 0
+INFO rule 0
+INFO time_left 179438
+INFO folder C:\ProgramData
+TURN 9,11
+16,7
+INFO time_left 179407
+TURN 9,10
+15,4
+INFO time_left 179395
+TURN 9,8
+12,6
+INFO time_left 179384
+TURN 10,9
+6,2
+INFO time_left 179373
+TURN 11,11
+7,19
+INFO time_left 179363
+TURN 13,12
+3,10
+INFO time_left 179350
+TURN 14,14
+5,7
+INFO time_left 179337
+TURN 11,15
+18,18
+INFO time_left 179327
+TURN 8,15
+16,5
+INFO time_left 179317
+TURN 6,15
+17,4
+INFO time_left 179304
+TURN 4,14
+17,18
+INFO time_left 179293
+TURN 3,14
+19,19
+INFO time_left 179282
+TURN 2,14
+16,3
+INFO time_left 179272
+TURN 1,12
+2,16
+INFO time_left 179262
+TURN 1,11
+11,19
+INFO time_left 179250
+TURN 1,9
+8,3
+INFO time_left 179239
+TURN 2,7
+9,6
+INFO time_left 179229
+TURN 1,6
+11,5
+INFO time_left 179218
+TURN 3,5
+0,5
+INFO time_left 179208
+TURN 7,5
+19,10
+INFO time_left 179198
+TURN 10,3
+8,0
+INFO time_left 179187
+TURN 12,2
+12,12
+INFO time_left 179176
+TURN 15,2
+17,11
+INFO time_left 179165
+TURN 14,1
+15,12
+INFO time_left 179153
+TURN 11,0
+4,19
+INFO time_left 179143
+TURN 9,1
+3,2
+INFO time_left 179133
+TURN 7,1
+15,7
+INFO time_left 179122
+TURN 5,1
+8,5
+INFO time_left 179111
+TURN 2,0
+5,9
+INFO time_left 179100
+TURN 3,0
+13,2
+INFO time_left 179088
+TURN 4,0
+17,1
+INFO time_left 179077
+TURN 5,0
+15,10
+RESTART
+END
+[7816] Failed to execute script pbrain-gomoku-ai
+______Process started______
+START 20
+OK
+INFO max_memory 83886080
+INFO timeout_match 180000
+INFO timeout_turn 2500
+INFO game_type 0
+INFO rule 0
+INFO time_left 179390
+INFO folder C:\ProgramData
+TURN 10,6
+14,19
+INFO time_left 179350
+TURN 10,7
+12,7
+INFO time_left 179338
+TURN 10,8
+11,16
+INFO time_left 179321
+TURN 10,9
+19,17
+END
+______Process started______
+START 20
+OK
+INFO max_memory 83886080
+INFO timeout_match 180000
+INFO timeout_turn 2500
+INFO game_type 0
+INFO rule 0
+INFO time_left 179737
+INFO folder C:\ProgramData
+TURN 5,3
+8,5
+INFO time_left 179698
+TURN 7,2
+17,3
+INFO time_left 179686
+TURN 11,1
+11,4
+RESTART
+END
+[4688] Failed to execute script pbrain-gomoku-ai
+______Process started______
+START 20
+OK
+INFO max_memory 83886080
+INFO timeout_match 180000
+INFO timeout_turn 2500
+INFO game_type 0
+INFO rule 0
+INFO time_left 179735
+INFO folder C:\ProgramData
+TURN 10,5
+19,13
+INFO time_left 179690
+TURN 10,6
+7,2
+RESTART
+END
+[7312] Failed to execute script pbrain-gomoku-ai
